@@ -12,6 +12,7 @@ http://cove-files.ceotr.ca:55441/share/LU5RKwiY
 
 # Authors
 Jaiden Dahlke, Izaak Gagnon, Ethan Garrafa, Ryan Gunther.
+
 Brock University, Department of Mathematics and Statistics
 
 
